@@ -1,0 +1,53 @@
+	.logotipo {
+	margin-right:10px;
+
+	}
+	
+	.PrimeiroParagrafo {
+	text-align:center;
+	font-size:1rem
+	margin-bottom:170px;
+	margin-top: 35px;
+	color: #d3d3d3;
+	}
+	
+	.h4 {
+	text-align:center;
+	margin-top: 70px;
+	margin-bottom: 50px;
+	font-size:1rem
+	}
+	
+	.SegundoParagrafo {
+	text-align:center;
+	color: #a9a9a9;
+	font-size: 0.9rem;
+	}
+	
+	.TerceiroParagrafo {
+	text-align:center;
+	color: #a9a9a9;
+	font-size: 0.9rem;
+	}
+	
+	.QuartoParagrafo {
+	text-align:center;
+	color: #a9a9a9;
+	font-size: 0.9rem;
+	}
+	
+	.QuintoParagrafo {
+	text-align:center;
+	color: #a9a9a9;
+	font-size: 0.9rem;
+	}
+	
+	.navbar {
+	position: fixed; 
+	margin-top: 0px !important;
+	top: 0%;
+	width: 8em;
+	margin-top: -2.5em;
+	z-index: 1;
+	
+	}
